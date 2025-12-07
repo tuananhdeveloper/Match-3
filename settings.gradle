@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "GameEngine"
+rootProject.name = "Match-3"
 include ':app'
